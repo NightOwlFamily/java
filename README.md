@@ -1,5 +1,4 @@
 # Welcome Night Owl 🦉
-Keep Hustling! Keep Growing!
 
 Java is a programming language and a platform.
 
@@ -7,7 +6,7 @@ Java is a high level, robust, object-oriented and secure programming language.
 
 Platform: Any hardware or software environment in which a program runs, is known as a platform. Since Java has a runtime environment (JRE) and API, it is called a platform.
 
-#Types of Java Applications
+# Types of Java Applications
 There are mainly 4 types of applications that can be created using Java programming:
 
 1) Standalone Application
@@ -22,6 +21,7 @@ An application that is distributed in nature, such as banking applications, etc.
 4) Mobile Application
 An application which is created for mobile devices is called a mobile application. Currently, Android and Java ME are used for creating mobile applications.
 
+# Editions of Java
 There are 4 platforms or editions of Java:
 
 1) Java SE (Java Standard Edition)
